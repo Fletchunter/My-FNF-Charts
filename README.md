@@ -2,7 +2,7 @@
 My FNF Charts. 
 
 
-This is all of my charts in fnf, and I put effort into it.
+This is all of my charts in FNF, and I put effort into it.
 
 If you want to download my charts use [DownGit](https://minhaskamal.github.io/DownGit/#/home)
 
