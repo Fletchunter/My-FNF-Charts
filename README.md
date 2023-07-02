@@ -13,3 +13,5 @@ Go to DownGit, type in your URL, and click "Download"! You can also change the a
 1. Take the directory link (angular-route was used), 
 2. Go to the GitHub API. 
 3. Search the directory for all files and download them all.
+
+Or you probably just copy and paste in your ways, perhaps.
