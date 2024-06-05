@@ -1,4 +1,4 @@
-Forget to mention, errie was made by subicat.
+Errie was made by subicat.
 
 I didn't realise that this song was old, but I charted it anyway.
 
