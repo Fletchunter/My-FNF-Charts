@@ -4,7 +4,7 @@ https://www.youtube.com/c/coquers_
 Song Link: https://www.youtube.com/watch?v=lKYvvEAmEYE
 
 Chart Info: 
-The offical chart made by Givvings: https://www.youtube.com/watch?v=qidV-mBwAFY
+Chart made by Givvings: https://www.youtube.com/watch?v=qidV-mBwAFY
 
 Buffed - Omori slashes are now stronger and slash often
 Old - Old chart
