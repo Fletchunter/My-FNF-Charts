@@ -1,3 +1,2 @@
-Hi this is my charts from other mods
+Charts made from other custom songs. 
 
-ㅤ
